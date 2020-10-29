@@ -17,7 +17,7 @@
  * ## module4: 使用的库：keras  math  numpy  pandas  time  os
 	描述：主要用来用遗传算法对测试集的数据进行寻优和运用ANN进行模式识别
 
-数据文件：
+* 数据文件：
 * example1.inp / example2.inp  （swmm5模型文件)
 * 0810-0817.hsf（swmm5热启动文件）
 * base_data.csv（训练集基准数据）和base_data2.csv（测试机基准数据)  trainning_data0.csv（训练集）和real_data.csv（测试集）
